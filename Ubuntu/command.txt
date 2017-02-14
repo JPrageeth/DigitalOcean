@@ -1,0 +1,2 @@
+■ Remove directory files
+  rm /path/to/directory/*
