@@ -1,0 +1,16 @@
+■LEMP & Remote Database & HTTP2 Create
+
+※Make LEMP ubuntu 16.04
+Crate https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-in-ubuntu-16-04
+
+
+※Install Additional PHP Extensions
+https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lemp-on-ubuntu-16-04
+
+
+※Remote Database
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-remote-database-to-optimize-site-performance-with-mysql
+
+
+※Using SSL setting in http2
+https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-with-http-2-support-on-ubuntu-16-04
