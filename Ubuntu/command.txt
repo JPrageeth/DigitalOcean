@@ -1,2 +1,7 @@
 ■ Remove directory files
   rm /path/to/directory/*
+  
+■ timezone setting
+  sudo dpkg-reconfigure tzdata  
+  
+  
